@@ -1,4 +1,11 @@
 # photo-pass-check
 
-- takes a picture on each startup, or login
-- after 50 pictures, it will use OpenCV haar cascades to immediately report a stranger logging in
+When run, the script will take a picture and save it. 
+Therefore it allows you to take a picture on each startup, or login.
+Setup the script to run on startup with cron/Task Scheduler.
+
+Please [buy me a coffee](https://www.buymeacoffee.com/pt420) lol. 
+
+
+
+
